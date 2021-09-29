@@ -26,6 +26,10 @@ Jupyter notebook, Tableau Public, and Pandas.
 
 ### Number of riders by gender
 ![Number ofriders by gender](https://user-images.githubusercontent.com/85364095/135193530-ccd6f13a-d6fd-41e7-b73f-ac21309314a0.jpeg)
+![usertripsbyweekday](https://user-images.githubusercontent.com/85364095/135193617-7c262f86-f934-47e3-b530-8295a1f3d8a0.jpeg)
+![tripsbyweekday(hour)](https://user-images.githubusercontent.com/85364095/135193645-4819f3ad-94ce-47ec-b131-832042e0bf15.jpeg)
+
+![tripsbygender(weekday:hour)](https://user-images.githubusercontent.com/85364095/135193652-f4330852-6827-4b42-8c8e-caf4743cc164.jpeg)
 
 
 
