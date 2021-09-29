@@ -11,11 +11,23 @@ To pursuade investers, we will show them a bike trip analysis. We will analyze f
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
+# About
 ## Data used:
 [Data 201908](https://public.tableau.com/shared/HHHPH8BQ3?:display_count=n&:origin=viz_share_link ) 
-
+## Language : 
+Jupyter notebook, Tableau Public, and Pandas.
 
 # Results:
+### Checkout Time for Users: 
+
+![checkout time for users](https://user-images.githubusercontent.com/85364095/135193446-41b9e7df-3419-456b-b4fe-9a99ac0c1d7f.jpeg)
+
+![Checkouttimebygender](https://user-images.githubusercontent.com/85364095/135193511-3d721654-39e9-4732-bad6-059be1c126b4.jpeg)
+
+### Number of riders by gender
+![Number ofriders by gender](https://user-images.githubusercontent.com/85364095/135193530-ccd6f13a-d6fd-41e7-b73f-ac21309314a0.jpeg)
+
+
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
