@@ -18,6 +18,13 @@ To pursuade investers, we will show them a bike trip analysis. We will analyze f
 Jupyter notebook, Tableau Public, and Pandas.
 
 # Results:
+
+![startinglocation](https://user-images.githubusercontent.com/85364095/135356094-17a041da-a501-4908-9124-3a2a3f77f3b2.png)
+
+<img width="500" alt="Screen Shot 2021-09-28 at 6 51 09 PM" src="https://user-images.githubusercontent.com/85364095/135355913-f7ab485b-045f-4005-bf60-b0ff54ae9493.png">
+
+
+
 **Checkout Time for Users: The peak uses of citibikes is less than 30 minutes.**
 
 ![checkout time for users](https://user-images.githubusercontent.com/85364095/135193446-41b9e7df-3419-456b-b4fe-9a99ac0c1d7f.jpeg)
