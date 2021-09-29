@@ -30,12 +30,16 @@ Jupyter notebook, Tableau Public, and Pandas.
 **Number of rides by gender: Males tend to use bike sharing the most.**
 ![Number ofriders by gender](https://user-images.githubusercontent.com/85364095/135193530-ccd6f13a-d6fd-41e7-b73f-ac21309314a0.jpeg)
 
-** user trips by gender weekday: The heatmap shows the usage rate based on users(subscribers and Costumers) and gender. Here, male subscribers are using more bikesharing than others.**
+**user trips by gender weekday: The heatmap shows the usage rate based on users(subscribers and Costumers) and gender. Here, male subscribers are using more bikesharing than others.**
 
 ![usertripsbyweekday](https://user-images.githubusercontent.com/85364095/135193617-7c262f86-f934-47e3-b530-8295a1f3d8a0.jpeg)
 
-
+**Trips by weekday per hour: The heatmap below shows that the citibikes are used least between 12am and 5 am throughout the week. The most time the citi bikes are used between 5pm to 7pm on Monday, Tuesday, Thursday, and Friday.**
 ![tripsbyweekday(hour)](https://user-images.githubusercontent.com/85364095/135193645-4819f3ad-94ce-47ec-b131-832042e0bf15.jpeg)
+
+
+
+**Trips by gender(weekday/hour): The heatmap shows that males and females use the citibikes most during 8am in the morning and 5-6 pm during evening.**
 
 ![tripsbygender(weekday:hour)](https://user-images.githubusercontent.com/85364095/135193652-f4330852-6827-4b42-8c8e-caf4743cc164.jpeg)
 
@@ -44,8 +48,6 @@ The top riding hours during August in New York City is between 5-7 pm.
 
 
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
 
 # Summary:
 
