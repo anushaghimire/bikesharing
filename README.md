@@ -1,5 +1,5 @@
 # bikesharing
-![link to dashboard](https://public.tableau.com/shared/HHHPH8BQ3?:display_count=n&:origin=viz_share_link )
+[link to dashboard](https://public.tableau.com/shared/HHHPH8BQ3?:display_count=n&:origin=viz_share_link )
 # Overview 
 After visiting New York Kate is interested in starting a bike share business for her hometown Des Moines, Iowa. Kate starts to brainstorm and finally found a potential invester for her business. To succeed in the business first, we looked at how the bike-share business works in New York City. Then we will create a proposal on how it might also work in Des Moines, Iowa.Then I used my knowldge in data-analytics to analyse the 2019-08 citybike data from New york City. 
 
