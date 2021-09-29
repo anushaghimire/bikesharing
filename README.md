@@ -18,15 +18,17 @@ To pursuade investers, we will show them a bike trip analysis. We will analyze f
 Jupyter notebook, Tableau Public, and Pandas.
 
 # Results:
-**Top starting location: The size and color of the circles represents the number of bikes checked out.
+**Top starting location: The size and color of the circles represents the number of bikes checked out. The larger the size and darker the color of the circle, the more bikes are checked out in that area.**
 <img width="900" alt="Screen Shot 2021-09-29 at 3 16 04 PM" src="https://user-images.githubusercontent.com/85364095/135356318-5665afc0-e6a8-426b-b3f5-c262b047fc22.png">
+
+
+**Top ending location: The larger the size and darker the color of the circle, the more bike rides end in that area.**
 <img width="900" alt="Screen Shot 2021-09-28 at 6 51 09 PM" src="https://user-images.githubusercontent.com/85364095/135355913-f7ab485b-045f-4005-bf60-b0ff54ae9493.png">
 
 
 
 
 **Checkout Time for Users: The peak uses of citibikes is less than 30 minutes.**
-
 ![checkout time for users](https://user-images.githubusercontent.com/85364095/135193446-41b9e7df-3419-456b-b4fe-9a99ac0c1d7f.jpeg)
 
 
@@ -38,7 +40,6 @@ Jupyter notebook, Tableau Public, and Pandas.
 ![Number ofriders by gender](https://user-images.githubusercontent.com/85364095/135193530-ccd6f13a-d6fd-41e7-b73f-ac21309314a0.jpeg)
 
 **user trips by gender weekday: The heatmap shows the usage rate based on users(subscribers and Costumers) and gender. Here, male subscribers are using more bikesharing than others.**
-
 ![usertripsbyweekday](https://user-images.githubusercontent.com/85364095/135193617-7c262f86-f934-47e3-b530-8295a1f3d8a0.jpeg)
 
 **Trips by weekday per hour: The heatmap below shows that the citibikes are used least between 12am and 5 am throughout the week. The most time the citi bikes are used between 5pm to 7pm on Monday, Tuesday, Thursday, and Friday.**
@@ -47,7 +48,6 @@ Jupyter notebook, Tableau Public, and Pandas.
 
 
 **Trips by gender(weekday/hour): The heatmap shows that males and females use the citibikes most during 8am in the morning and 5-6 pm during evening.**
-
 ![tripsbygender(weekday:hour)](https://user-images.githubusercontent.com/85364095/135193652-f4330852-6827-4b42-8c8e-caf4743cc164.jpeg)
 
 The top riding hours during August in New York City is between 5-7 pm.
@@ -57,5 +57,19 @@ The top riding hours during August in New York City is between 5-7 pm.
 
 
 # Summary:
+From the above results we can say that males are predominantly use bikes that females and unknown gender. The peak usage of city bikes is between 5-7 pm specially on weekdays. The other important point is that annual subscribers are renting more bikes than short term costumers.
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+In order to determine if the biksharing business is good for Des Moines, Iowa, we should look at further visualization such as;
+
+- We could look at the data of whole year because August is in summer but is there a same number of bike riders during winter season?
+- We should also look at the reason for using bikes. Are there people who use bikes to commute to go to work or just for fun. 
+- In this way we can advertise targeting the particular audience who might be more interested in using bikes.
+
+
+
+
+
+
+
+
+
