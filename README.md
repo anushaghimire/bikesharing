@@ -18,18 +18,29 @@ To pursuade investers, we will show them a bike trip analysis. We will analyze f
 Jupyter notebook, Tableau Public, and Pandas.
 
 # Results:
-### Checkout Time for Users: 
+**Checkout Time for Users: The peak uses of citibikes is less than 30 minutes.**
 
 ![checkout time for users](https://user-images.githubusercontent.com/85364095/135193446-41b9e7df-3419-456b-b4fe-9a99ac0c1d7f.jpeg)
 
+
+**Check out time by gender: The graph shows that males tend to rent more bikes but the rental time is fairly similar for all genders.**
 ![Checkouttimebygender](https://user-images.githubusercontent.com/85364095/135193511-3d721654-39e9-4732-bad6-059be1c126b4.jpeg)
 
-### Number of riders by gender
+
+**Number of rides by gender: Males tend to use bike sharing the most.**
 ![Number ofriders by gender](https://user-images.githubusercontent.com/85364095/135193530-ccd6f13a-d6fd-41e7-b73f-ac21309314a0.jpeg)
+
+** user trips by gender weekday: The heatmap shows the usage rate based on users(subscribers and Costumers) and gender. Here, male subscribers are using more bikesharing than others.**
+
 ![usertripsbyweekday](https://user-images.githubusercontent.com/85364095/135193617-7c262f86-f934-47e3-b530-8295a1f3d8a0.jpeg)
+
+
 ![tripsbyweekday(hour)](https://user-images.githubusercontent.com/85364095/135193645-4819f3ad-94ce-47ec-b131-832042e0bf15.jpeg)
 
 ![tripsbygender(weekday:hour)](https://user-images.githubusercontent.com/85364095/135193652-f4330852-6827-4b42-8c8e-caf4743cc164.jpeg)
+
+The top riding hours during August in New York City is between 5-7 pm.
+![peakridinghours](https://user-images.githubusercontent.com/85364095/135351985-ef25f245-5d87-4494-a9dc-5e052be3f2a5.jpeg)
 
 
 
