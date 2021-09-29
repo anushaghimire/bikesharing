@@ -18,10 +18,10 @@ To pursuade investers, we will show them a bike trip analysis. We will analyze f
 Jupyter notebook, Tableau Public, and Pandas.
 
 # Results:
+**Top starting location: The size and color of the circles represents the number of bikes checked out.
+<img width="900" alt="Screen Shot 2021-09-29 at 3 16 04 PM" src="https://user-images.githubusercontent.com/85364095/135356318-5665afc0-e6a8-426b-b3f5-c262b047fc22.png">
+<img width="900" alt="Screen Shot 2021-09-28 at 6 51 09 PM" src="https://user-images.githubusercontent.com/85364095/135355913-f7ab485b-045f-4005-bf60-b0ff54ae9493.png">
 
-![startinglocation](https://user-images.githubusercontent.com/85364095/135356094-17a041da-a501-4908-9124-3a2a3f77f3b2.png)
-
-<img width="500" alt="Screen Shot 2021-09-28 at 6 51 09 PM" src="https://user-images.githubusercontent.com/85364095/135355913-f7ab485b-045f-4005-bf60-b0ff54ae9493.png">
 
 
 
